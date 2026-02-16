@@ -1,23 +1,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hi%20👋,%20I'm%20Parth%20Goyal&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;MERN+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer+🚀" />
 </h1>
-
-<h1 align="center">Hi 👋, I'm Parth Goyal</h1>
-<h3 align="center">🚀 B.Tech IT Student | MERN Stack Developer | DSA Enthusiast</h3>
-
 <p align="center">
   <a href="https://github.com/parthgoyal26-03-2005">
     <img src="https://komarev.com/ghpvc/?username=parthgoyal26-03-2005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
-
 ---
-
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 Pursuing **B.Tech in Information Technology**
 - 💻 Passionate about **Full Stack Development (MERN)**
@@ -76,7 +69,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
----
-
-<h3 align="center">⚡ "Consistency beats intensity." ⚡</h3>
