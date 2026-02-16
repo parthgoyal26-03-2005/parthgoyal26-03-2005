@@ -4,13 +4,15 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;MERN+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer+🚀" />
 </h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/parthgoyal26-03-2005">
     <img src="https://komarev.com/ghpvc/?username=parthgoyal26-03-2005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
-</p>
+</p> -->
+
 ---
-##  About Me
+
+## About Me
 
 - 🎓 Pursuing **B.Tech in Information Technology**
 - 💻 Passionate about **Full Stack Development (MERN)**
