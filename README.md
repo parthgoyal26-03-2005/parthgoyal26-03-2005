@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hi%20👋,%20I'm%20Parth%20Goyal&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;MERN+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer+🚀" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Parth Goyal</h1>
 <h3 align="center">🚀 B.Tech IT Student | MERN Stack Developer | DSA Enthusiast</h3>
 
@@ -49,15 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthgoyal26-03-2005&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgoyal26-03-2005&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🔥 Current Focus
 
 - 🧩 Solving DSA problems regularly
@@ -70,10 +69,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/parth-goyal-280925291/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:pg962359@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
