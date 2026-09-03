@@ -131,6 +131,15 @@ Uses document processing, embeddings, vector similarity search and local LLM inf
 </table>
 
 ---
+## DSA
+
+<p align="center">
+  <a href="https://leetcode.com/samarth_chawla">
+    <img src="https://leetcard.jacoblin.cool/draftpunk?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+
+---
 
 ## Technical Stack
 
