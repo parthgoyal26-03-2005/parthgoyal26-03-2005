@@ -134,7 +134,7 @@ Uses document processing, embeddings, vector similarity search and local LLM inf
 ## DSA
 
 <p align="center">
-  <a href="https://leetcode.com/samarth_chawla">
+  <a href="https://leetcode.com/draftpunk">
     <img src="https://leetcard.jacoblin.cool/draftpunk?theme=dark&font=Karma&ext=heatmap" />
   </a>
 </p>
